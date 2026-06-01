@@ -19,6 +19,7 @@ public class reverse_each_row {
             for(int j=m-1; j>=0; j--){
                 System.out.print(arr[i][j] +" ");
             }
+            System.out.println();
         }
         sc.close();
     }

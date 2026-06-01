@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class swap_and_last_column {
+public class swap_first_and_last_column {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
