@@ -49,6 +49,6 @@ public class abstract12 {
         System.out.printf("Triangle Perimeter: %.2f\n", triangle.perimeter());
 
         System.out.printf("Square Area: %.2f\n", square.area());
-        System.out.printf("Square Perimeter: %.2f\n", square.perimeter());
+        System.out.printf("Square Perimeter: %.2f\n", square.perimeter()); 
     }
 }
