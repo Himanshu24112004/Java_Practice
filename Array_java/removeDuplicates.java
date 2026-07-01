@@ -29,3 +29,17 @@ public class removeDuplicates {
     }
 }
 
+
+/*
+
+Using hashset : DSA topic 
+
+HashSet<Integer> set = new HashSet<>();
+for(int num : arr){
+set.add(num);
+}
+for(int num : set){
+System.out.println(num+" ");
+}
+
+*/

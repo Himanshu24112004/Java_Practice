@@ -8,6 +8,6 @@ public class palindromeCheck {
                 break;
             }
         }
-        System.out.println(word+"isPalindrome: "+isPalindrome);
+        System.out.println(word+"is Palindrome: "+isPalindrome);
     }
 }

@@ -5,7 +5,7 @@ public class equalsMethod1 {
 
     String s1 = "Java";
     String s2 = "Java";
-    string s3 = "java";
+    String s3 = "java";
     System.out.println(s1.equals(s2)); // true
     System.out.println(s1.equals(s3)); // false(case sensitive)
     }

@@ -33,3 +33,13 @@ public class countWordFrequency {
         System.out.println("}");
     }
 }
+
+/*
+Using HashMap : DSA Topic
+
+Map<String,Integer>  freq  = new HashMap<>();
+for(String word : words){
+freq.put(word,freq.getOrDefault(word,0)+1);
+}
+System.out. println(freq);
+*/
